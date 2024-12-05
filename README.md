@@ -4,19 +4,18 @@ Welcome to my github! My name is Sarah Baskin (she/her) and I am a Junior at Bra
 
 ### Current Projects (in various stages of completion)
 
-#### The Eras Tour: Investigating the Validity of Music Sentiment Analysis through the Case Study of Taylor Swift 
-#### (Analyzing-The-Eras-Tour)
+#### The Eras Tour: Investigating the Validity of Music Sentiment Analysis through the Case Study of Taylor Swift (Analyzing-The-Eras-Tour)
+The purview of sentiment analysis is slowly widening, with new applications being found in poetry, literature, and music. However, the literature on this aspect of SA is generally very contradictory, and the findings often weak, unsupportable, or incomplete. Here, I use the most pertinent research on the topic of sentiment analysis in music to conduct a study analyzing the evolution of the music of Taylor Swift (chosen because she an artist who the public perceives to have had distinct sentimental 'eras' in her body of work. The goal is to use this case study and the refined techniques that I have taken from other work in order to try and see if SA can actually be applied to music research.
 
-#### Transportivity 
-#### (Transportivity)
+#### Transportivity (Transportivity)
+An application that will allow MBTA users to locate the fastest and cheapest public transit trip from point A to point B.
 
-#### [Re]Release
-#### (-Re-Release)
+#### [Re]Release (-Re-Release)
+An application that will give users movie recommendations based on movies that were released on day of the query. Further attention will be paid to any genre the user requests, any actors present in the film, and any particular critical praise.
 
-#### "Why did I Learn a Language that I'll Never Use?": The Most Useful Second Langauges to Teach in School 
-#### (second-langs-in-massachusetts)
-
+#### "Why did I Learn a Language that I'll Never Use?": The Most Useful Second Langauges to Teach in School (second-langs-in-massachusetts)
+It is often just assumed that the languages offered in school are the most useful options for kids to get accustomed to. But what if that wasn't the case? Here, I will explore the question of what exactly is the "best" second language for people in Massachusetts specifically to learn. What langauges will give you the best bang for your buck? What languages are you most likely (statistically speaking) to come in contact with? Data analysis will consider immigrant populations, ex-pat countries that Massachusettsians are most likely to seek out, and various other demographic data.
 
 ### Wait...but where's your Fall AI Studio Project? That was supposed to be here!
 
-Great question, Meghan! Clearly, the repo is not linked on my profile, otherwise you would be able to see it. Unfortunately, we do not have any code for our project because our CA has been largely unresponsive throughout the entirety of the internship and we have not been able to make significant progress as a result. We have been in contact with our TA and with Chu about this, but there's really only so much you can do when the company is disorganized and doesn't know what to do with your group. I realize that you'll probably need to dock points from me for not having the AI Studio project linked on my profile, but I have had no control to be able to remedy the situation. Additionally, I have no information on how to setup the project locally, how to install any necessary extensions, and there is no existing project documentation. Wish I had better news to report, but that's what I've got for ya.
+Great question, Megan! Clearly, the repo is not linked on my profile, otherwise you would be able to see it. Unfortunately, we do not have any code for our project because our CA has been largely unresponsive throughout the entirety of the internship and we have not been able to make significant progress as a result. We have been in contact with our TA and with Chu about this, but there's really only so much you can do when the company is disorganized and doesn't know what to do with your group. I realize that you'll probably need to dock points from me for not having the AI Studio project linked on my profile, but I have had no control to be able to remedy the situation. Additionally, I have no information on how to setup the project locally, how to install any necessary extensions, and there is no existing project documentation. Wish I had better news to report, but that's what I've got for ya.
