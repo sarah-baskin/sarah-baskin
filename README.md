@@ -2,7 +2,7 @@
 
 Welcome to my github! My name is Sarah Baskin (she/her) and I am a Junior at Brandeis University in Waltham, MA studying Computer Science and Linguistics. I am working toward a specialization in Natural Language Processing/Computational Linguistics, but I am open to work in SWE, PM, and really anything under the sun so long as it involves computing and working with people :). In my spare time, I enjoy reading (currently digging into The Kitchen God's Wife by Amy Tan), crocheting, and watching Star Trek. 
 
-Below, you can see an overview of some of the major projects I'm working on right now (in various stages of progress, please bare with me):
+### Current Projects (in various stages of completion)
 
 #### The Eras Tour: Investigating the Validity of Music Sentiment Analysis through the Case Study of Taylor Swift
 
