@@ -4,13 +4,17 @@ Welcome to my github! My name is Sarah Baskin (she/her) and I am a Junior at Bra
 
 ### Current Projects (in various stages of completion)
 
-#### The Eras Tour: Investigating the Validity of Music Sentiment Analysis through the Case Study of Taylor Swift (Analyzing-the-eras-tour)
+#### The Eras Tour: Investigating the Validity of Music Sentiment Analysis through the Case Study of Taylor Swift 
+#### (Analyzing-The-Eras-Tour)
 
-#### Transportivity (Transportivity)
+#### Transportivity 
+#### (Transportivity)
 
-#### [Re]Release (-Re-Release)
+#### [Re]Release
+#### (-Re-Release)
 
-#### "Why did I Learn a Language that I'll Never Use?": The Most Useful Second Langauges to Teach in School (second-langs-in-massachusetts)
+#### "Why did I Learn a Language that I'll Never Use?": The Most Useful Second Langauges to Teach in School 
+#### (second-langs-in-massachusetts)
 
 
 ### Wait...but where's your Fall AI Studio Project? That was supposed to be here!
