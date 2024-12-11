@@ -1,4 +1,4 @@
-## Speak Friend, and Enter! 🖖🧝‍♀️🍞🧶
+## Speak Friend, and Enter! 🖖
 
 Welcome to my github! My name is Sarah Baskin (she/her) and I am a Junior at Brandeis University in Waltham, MA studying Computer Science and Linguistics. I am working toward a specialization in Natural Language Processing/Computational Linguistics, but I am open to work in SWE, PM, and really anything under the sun so long as it involves computing and working with people :). In my spare time, I enjoy reading (currently digging into The Kitchen God's Wife by Amy Tan), crocheting, and watching Star Trek.
 
@@ -15,7 +15,7 @@ you can find more information about the project in the pinned repo on my profile
 #### The Eras Tour: Investigating the Validity of Music Sentiment Analysis through the Case Study of Taylor Swift (Analyzing-The-Eras-Tour)
 The purview of sentiment analysis is slowly widening, with new applications being found in poetry, literature, and music. However, the literature on this aspect of SA is generally very contradictory, and the findings often weak, unsupportable, or incomplete. Here, I use the most pertinent research on the topic of sentiment analysis in music to conduct a study analyzing the evolution of the music of Taylor Swift (chosen because she an artist who the public perceives to have had distinct sentimental 'eras' in her body of work. The goal is to use this case study and the refined techniques that I have taken from other work in order to try and see if SA can actually be applied to music research.
 
-To-Dos: Write up findings in research paper, clean up data and Jupyter Notebooks, add documentation and guides
+To-Dos: Write up findings in research paper, clean up data and Jupyter Notebooks, add documentation and guides to github
 
 #### Transportivity (Transportivity)
 An application that will allow MBTA users to locate the fastest and cheapest public transit trip from point A to point B.
