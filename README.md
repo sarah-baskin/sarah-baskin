@@ -15,11 +15,11 @@ you can find more information about the project in the pinned repo on my profile
 #### FINISHED: The Eras Tour: Investigating the Validity of Music Sentiment Analysis through the Case Study of Taylor Swift (Analyzing-The-Eras-Tour)
 The purview of sentiment analysis is slowly widening, with new applications being found in poetry, literature, and music. However, the literature on this aspect of SA is generally very contradictory, and the findings often weak, unsupportable, or incomplete. Here, I use the most pertinent research on the topic of sentiment analysis in music to conduct a study analyzing the evolution of the music of Taylor Swift (chosen because she an artist who the public perceives to have had distinct sentimental 'eras' in her body of work. The goal is to use this case study and the refined techniques that I have taken from other work in order to try and see if SA can actually be applied to music research.
 
+#### ACTIVELY IN PROGRESS: [Re]Release (-Re-Release)
+A movie recommendation application
+
 #### Transportivity (Transportivity)
 An application that will allow MBTA users to locate the fastest and cheapest public transit trip from point A to point B.
-
-#### [Re]Release (-Re-Release)
-An application that will give users movie recommendations based on movies that were released on day of the query. Further attention will be paid to any genre the user requests, any actors present in the film, and critical praise/awards.
 
 #### "Why did I Learn French in School?": The Most Useful Second Langauges to Teach in School (second-langs-in-massachusetts)
 It is often just assumed that the languages offered in school are the most useful options for kids to get accustomed to. But what if that wasn't the case? Here, I will explore the question of what exactly is the "best" second language for people in Massachusetts specifically to learn. What langauges will give you the best bang for your buck? What languages are you most likely (statistically speaking) to come in contact with? Data analysis will consider immigrant populations, ex-pat countries that Massachusettsians are most likely to seek out, and various other demographic data.
