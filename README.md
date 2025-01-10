@@ -8,7 +8,7 @@ This past semester I have had the honor of participating in Break Through Tech A
 
 Our project was focused on comparing the quality of Darshana's verified applicant entries against un-verified options. Our analysis found that the two datasets were too similar to produce differences in job recommendations.
 
-you can find more information about the project in the pinned repo on my profile.
+You can find more information about the project in the pinned repo on my profile.
 
 ### Personal Projects (listed in order of current percentage completion)
 
