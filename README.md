@@ -20,6 +20,3 @@ A movie recommendation application
 
 #### Transportivity (Transportivity)
 An application that will allow MBTA users to locate the fastest and cheapest public transit trip from point A to point B.
-
-#### The Most Useful Second Langauges to Teach in School
-It is often just assumed that the languages offered in school are the most useful options for kids to get accustomed to. But what if that wasn't the case? Here, I will explore the question of what exactly is the "best" second language for people in Massachusetts specifically to learn. What langauges will give you the best bang for your buck? What languages are you most likely (statistically speaking) to come in contact with? Data analysis will consider immigrant populations, ex-pat countries that Massachusettsians are most likely to seek out, and various other demographic data.
