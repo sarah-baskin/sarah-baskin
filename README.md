@@ -13,7 +13,7 @@ You can find more information about the project in the pinned repo on my profile
 ### Personal Projects (listed in order of current percentage completion)
 
 #### FINISHED: The Eras Tour: Investigating the Validity of Music Sentiment Analysis through the Case Study of Taylor Swift (Analyzing-The-Eras-Tour)
-The purview of sentiment analysis is slowly widening, with new applications being found in poetry, literature, and music. However, the literature on this aspect of SA is generally very contradictory, and the findings often weak, unsupportable, or incomplete. Here, I use the most pertinent research on the topic of sentiment analysis in music to conduct a study analyzing the evolution of the music of Taylor Swift (chosen because she an artist who the public perceives to have had distinct sentimental 'eras' in her body of work. The goal is to use this case study and the refined techniques that I have taken from other work in order to try and see if SA can actually be applied to music research.
+The purview of sentiment analysis is slowly widening, with new applications being found in poetry, literature, and music. However, the literature on this aspect of SA is generally very contradictory, and the findings often weak, unsupportable, or incomplete. Here, I use the most pertinent research on the topic of sentiment analysis in music to conduct a study analyzing the evolution of Taylor Swift (chosen because she an artist who the public perceives to have had distinct sentimental 'eras' in her body of work). The goal is to use this case study in order to try and see if SA can actually be applied to music research.
 
 #### ACTIVELY IN PROGRESS: [Re]Release (-Re-Release)
 A movie recommendation application
